@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hi there, I'm Cennac 👋
 
-<!--
-**CennacEh/CennacEh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **probably a Developer**
 
-Here are some ideas to get you started:
+I enjoy creating things with **C++**, **JavaScript**, like a lot. 
+I'm a **Game developper** and I make **Minecraft Bedrock addons**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 About Me
+- 🌱 Probably doing stuff with **C++** and **Raylib.h**
+- 🛠️ I make stuff with **C++ & JS**
+- 🎯 Goals: Make a 3d simple game.
+
+---
+
+## ⚡ Tech & Tools
+- **Languages:** C++, JavaScript, Python
+- **Frameworks/Libraries:** Raylib, SDL,
+- **Tools:** VS Code, g++, Git, Vite
+
+---
+
+## 📊 GitHub Stats
+![Cennac's GitHub stats](https://github-readme-stats.vercel.app/api?username=CennacEh&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CennacEh&layout=compact&theme=radical)
+
+---
+
+## ✨ Let's Connect
+- 💬 Contact me in discord: cennac2.
+- 🌐 [My GitHub Projects](https://github.com/CennacEh)
+
+---
