@@ -1,4 +1,4 @@
-# Hi there, I'm Cennac 👋
+ # Hi there, I'm Cennac 👋
 
 💻 **probably a Developer**
 
@@ -15,9 +15,9 @@ I'm a **Game developper** and I make **Minecraft Bedrock addons**
 ---
 
 ## ⚡ Tech & Tools
-- **Languages:** C++, JavaScript, Python
-- **Frameworks/Libraries:** Raylib, SDL,
-- **Tools:** VS Code, g++, Git, Vite
+- **Languages:** C++, JavaScript, Python.
+- **Frameworks/Libraries:** Raylib, SDL.
+- **Tools:** VS Code, g++, Git.
 
 ---
 
@@ -28,7 +28,7 @@ I'm a **Game developper** and I make **Minecraft Bedrock addons**
 
 ---
 
-## ✨ Let's Connect
+## ✨ Contacts
 - 💬 Contact me in discord: cennac2.
 - 🌐 [My GitHub Projects](https://github.com/CennacEh)
 
