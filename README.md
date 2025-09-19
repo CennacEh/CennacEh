@@ -3,7 +3,7 @@
 💻 **probably a Developer**
 
 I enjoy creating things with **C++**, **JavaScript**, like a lot. 
-I'm a **Game developper** and I make **Minecraft Bedrock addons**
+I'm a **Game developer** and I make **Minecraft Bedrock addons**
 
 ---
 
