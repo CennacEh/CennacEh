@@ -10,7 +10,7 @@ I'm a **Game developper** and I make **Minecraft Bedrock addons**
 ## 🚀 About Me
 - 🌱 Probably doing stuff with **C++** and **Raylib.h**
 - 🛠️ I make stuff with **C++ & JS**
-- 🎯 Goals: Make a 3d simple game.
+- 🎯 Goals: idk.
 
 ---
 
