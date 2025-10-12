@@ -1,21 +1,18 @@
  # Hi there, I'm Cennac 👋
 
-💻 **probably a Developer**
-
 I enjoy creating things with **C++**, **JavaScript**, like a lot. 
-I'm a **Game developer** and I make **Minecraft Bedrock addons**
+I'm a **C++ application developer** and I make **Minecraft Bedrock addons**
 
 ---
 
 ## 🚀 About Me
-- 🌱 Probably doing stuff with **C++** and **Raylib.h**
-- 🛠️ I make stuff with **C++ & JS**
-- 🎯 Goals: idk.
-
+- C++ is life
+- 14 years old.
+- Call me Cennac or Cen.
 ---
 
 ## ⚡ Tech & Tools
-- **Languages:** C++, JavaScript, Python.
+- **Languages:** C++, JavaScript.
 - **Frameworks/Libraries:** Raylib, SDL.
 - **Tools:** VS Code, g++, Git.
 
