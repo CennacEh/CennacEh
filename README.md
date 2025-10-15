@@ -2,7 +2,7 @@
  - Does it even matter anymore?
 ---
 # Current project
- [Chat Application made with C++ and uses UDP protocol.](https://github.com/CennacEh/UDPChatApp/)
+ - [Chat Application made with C++ and uses UDP protocol.](https://github.com/CennacEh/UDPChatApp/)
 ---
 ## GitHub Stats
 ![Cennac's GitHub stats](https://github-readme-stats.vercel.app/api?username=CennacEh&show_icons=true&theme=radical)
