@@ -1,7 +1,6 @@
- # Hi there, I'm Cennac 👋
- - Does it even matter anymore?
+ # Hi there, I'm Cennac 👋!
 ---
-# Current project
+# My Current Project
  - [Chat Application made with C++ and uses UDP protocol.](https://github.com/CennacEh/UDPChatApp/)
 ---
 ## GitHub Stats
@@ -14,3 +13,4 @@
 ## Contacts
 - Contact me in discord: cennac2.
 ---
+why would a flower bloom when no one is there to water it?
